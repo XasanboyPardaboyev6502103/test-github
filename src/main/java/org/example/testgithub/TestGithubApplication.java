@@ -11,5 +11,6 @@ public class TestGithubApplication {
     public static void main(String[] args) {
         SpringApplication.run(TestGithubApplication.class, args);
     }
+    System.out.print("Ozodbek");
 
 }
